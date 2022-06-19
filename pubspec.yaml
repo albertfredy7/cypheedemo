@@ -1,0 +1,64 @@
+name: cyphee
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/cyphee/assets/images/oval.svg
+    - packages/cyphee/assets/images/circle.png
+    - packages/cyphee/assets/images/wifi.png
+    - packages/cyphee/assets/images/bluetoothicon.png
+    - packages/cyphee/assets/images/shape.svg
+    - packages/cyphee/assets/images/charge.svg
+    - packages/cyphee/assets/images/shape.png
+    - packages/cyphee/assets/images/background.svg
+    - packages/cyphee/assets/images/ellipse32.png
+    - packages/cyphee/assets/images/vector.svg
+    - packages/cyphee/assets/images/ellipse26.png
+    - packages/cyphee/assets/images/fill1.svg
+    - packages/cyphee/assets/images/group5.svg
+    - packages/cyphee/assets/images/fill6.png
+    - packages/cyphee/assets/images/fill8.png
+    - packages/cyphee/assets/images/fill10.svg
+    - packages/cyphee/assets/images/fill12.svg
+    - packages/cyphee/assets/images/ellipse27.png
+    - packages/cyphee/assets/images/category.svg
+    - packages/cyphee/assets/images/ellipse28.png
+    - packages/cyphee/assets/images/fill3.svg
+    - packages/cyphee/assets/images/group7.svg
+    - packages/cyphee/assets/images/fill8.svg
+    - packages/cyphee/assets/images/profile.png
+    - packages/cyphee/assets/images/group.svg
+    - packages/cyphee/assets/images/polygon1.svg
+    - packages/cyphee/assets/images/batteryicon.svg
+    - packages/cyphee/assets/images/signal.svg
+    - packages/cyphee/assets/images/line3.svg
+    - packages/cyphee/assets/images/line4.svg
+    - packages/cyphee/assets/images/ellipse29.png
+    - packages/cyphee/assets/images/doneall.svg
+    - packages/cyphee/assets/images/ellipse30.png
+    - packages/cyphee/assets/images/ellipse31.png
+    - packages/cyphee/assets/images/clip4.svg
+    - packages/cyphee/assets/images/fill7.png
+    - packages/cyphee/assets/images/fill5.png
+    - packages/cyphee/assets/images/fill3.png
+    - packages/cyphee/assets/images/fill1.png
+    - packages/cyphee/assets/images/clip6.svg
+    - packages/cyphee/assets/images/facebookpositive.svg
+    - packages/cyphee/assets/images/line1.svg
+    - packages/cyphee/assets/images/delete.svg
+    - packages/cyphee/assets/images/instagram.svg
+    - packages/cyphee/assets/images/line2.svg
